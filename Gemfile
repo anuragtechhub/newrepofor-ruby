@@ -51,6 +51,6 @@ gem 'sentry-raven', '~> 3.1'
 
 gem 'barnes', '~> 0.0.8'
 
-gem 'sidekiq', '~> 6.1'
+gem 'sidekiq', '~> 7.0'
 
 gem 'sidekiq-cron', '~> 1.2'
